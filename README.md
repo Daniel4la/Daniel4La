@@ -2,10 +2,10 @@
 
 ## 💫 About Me
 
-- 🎓 A recent graduate with a **Bachelor of Information Technology**
-- 💻 An aspiring **Full-Stack Software Engineer** on a journey to turn my passion for technology into real-world solutions
-- 🧠 I'm currently focused on learning and mastering various programming languages and frameworks while building hands-on projects to deepen my understanding
-- 🛠️ From small applications to full-stack builds, each step brings me closer to becoming a confident and capable software engineer
+🎓 A recent graduate with a **Bachelor of Information Technology**
+💻 An aspiring **Full-Stack Software Engineer** on a journey to turn my passion for technology into real-world solutions
+🧠 I'm currently focused on learning and mastering various programming languages and frameworks while building hands-on projects to deepen my understanding
+🛠️ From small applications to full-stack builds, each step brings me closer to becoming a confident and capable software engineer
 
 ## 🧠 My Journey So Far
 
