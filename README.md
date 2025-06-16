@@ -1,7 +1,34 @@
 ## Hi, I’m Daniel! 👋 
 
-💫 About Me:
-🎓 A recent graduate with a Bachelor of Information Technology<br>💻 An aspiring Full-Stack Software Engineer on a journey to turn my passion for technology into real-world solutions.<br><br>I'm currently focused on learning and mastering various programming languages and frameworks while building hands-on projects to deepen my understanding. From small applications to full-stack builds, each step brings me closer to my goal of becoming a confident and capable software engineer.<br><br>🧠 My journey so far involves:<br><br>Learning core programming languages like HTML, CSS, JavaScript, Python, and Java<br><br>Exploring frameworks<br><br>Building personal projects to solve everyday problems<br><br>Strengthening my skills in frontend and backend development<br><br>Continuously improving through online courses, tutorials, and real-world application<br><br>🚀 Interests<br><br>Full-Stack Development – Creating complete applications from UI to database<br><br>Software Engineering – Writing clean, scalable code to bring ideas to life<br><br>Project Building – Working on projects that interest me and address real-world problems<br><br>Tech & Innovation – Keeping up with the latest in software, gadgets, and development tools<br><br>Gaming & Culture – A lifelong gamer who loves competitive and cooperative games<br><br>Being Active – I enjoy being outdoors, socialising, and staying physically active<br><br>Always Learning – Whether it’s reading tech blogs, watching dev content, or joining workshops<br><br>📫 I’m always open to connecting with other devs, learning new tools, and exploring exciting opportunities. Let’s build something amazing together!<br>
+## 💫 About Me
+
+- 🎓 A recent graduate with a **Bachelor of Information Technology**
+- 💻 An aspiring **Full-Stack Software Engineer** on a journey to turn my passion for technology into real-world solutions
+- 🧠 I'm currently focused on learning and mastering various programming languages and frameworks while building hands-on projects to deepen my understanding
+- 🛠️ From small applications to full-stack builds, each step brings me closer to becoming a confident and capable software engineer
+
+## 🧠 My Journey So Far
+
+- Learning core programming languages like `HTML`, `CSS`, `JavaScript`, `Python`, and `Java`
+- Exploring frameworks
+- Building personal projects to solve everyday problems
+- Strengthening my skills in both frontend and backend development
+- Continuously improving through online courses, tutorials, and real-world applications
+
+## 🚀 Interests
+
+- **Full-Stack Development** – Creating complete applications from UI to database
+- **Software Engineering** – Writing clean, scalable code to bring ideas to life
+- **Project Building** – Working on projects that interest me and solve real-world problems
+- **Tech & Innovation** – Keeping up with the latest in software, gadgets, and development tools
+- **Gaming & Culture** – A lifelong gamer who loves both competitive and cooperative games
+- **Being Active** – Enjoy spending time outdoors, socialising, and staying physically active
+- **Always Learning** – Whether it’s reading tech blogs, watching dev content, or joining workshops
+
+## 📫 Let’s Connect!
+
+I’m always open to connecting with other devs, learning new tools, and exploring exciting opportunities.  
+**Let’s build something amazing together!**
 
 
 ## 🌐 Socials:
