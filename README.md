@@ -18,7 +18,7 @@
 ## Interests 🚀
 
 - **Full-Stack Development** – Creating complete applications from UI to database
-- **Software Engineering** – Solving complex problems through technology, and building systems that are reliable, user-focused, and built to scale.
+- **Software Engineering** – Solving complex problems with technology and building reliable, scalable systems.
 - **Project Building** – Working on projects that interest me and solve real-world problems
 - **Tech & Innovation** – Keeping up with the latest in software, gadgets, and development tools
 - **Gaming & Culture** – A lifelong gamer who loves both competitive and cooperative games
