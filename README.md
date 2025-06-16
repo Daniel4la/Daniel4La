@@ -2,18 +2,18 @@
 
 ## About Me 💫 
 
-🎓 A recent graduate with a **Bachelor of Information Technology** <br>
-💻 An aspiring **Full-Stack Software Engineer** on a journey to turn my passion for technology into real-world solutions <br>
-🧠 I'm currently focused on learning and mastering various programming languages and frameworks while building hands-on projects to deepen my understanding <br>
-🛠️ From small applications to full-stack builds, each step brings me closer to becoming a confident and capable software engineer <br>
+🎓  A recent graduate with a **Bachelor of Information Technology** <br>
+💻  An aspiring **Full-Stack Software Engineer** on a journey to turn my passion for technology into real-world solutions <br>
+🧠  I'm currently focused on learning and mastering various programming languages and frameworks while building hands-on projects to deepen my understanding <br>
+🛠️  From small applications to full-stack builds, each step brings me closer to becoming a confident and capable software engineer <br>
 
 ## My Journey So Far 🛤️ 
 
-- Learning core programming languages like `HTML`, `CSS`, `JavaScript`, `Python`, and `Java`
-- Exploring frameworks
-- Building personal projects to solve everyday problems
-- Strengthening my skills in both frontend and backend development
-- Continuously improving through online courses, tutorials, and real-world applications
+- **Learning** core programming languages like `HTML`, `CSS`, `JavaScript`, `Python`, and `Java`
+- **Exploring** frameworks
+- **Building** personal projects to solve everyday problems
+- **Strengthening** my skills in both frontend and backend development
+- **Continuously improving** through online courses, tutorials, and real-world applications
 
 ## Interests 🚀
 
